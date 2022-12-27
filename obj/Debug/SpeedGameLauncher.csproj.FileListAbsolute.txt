@@ -1,0 +1,11 @@
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Debug\SpeedGameLauncher.exe.config
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Debug\SpeedGameLauncher.exe
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Debug\SpeedGameLauncher.pdb
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.Launcher.resources
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.Properties.Resources.resources
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.exe
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Debug\SpeedGameLauncher.pdb
