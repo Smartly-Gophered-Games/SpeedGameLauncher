@@ -30,9 +30,11 @@ namespace SpeedGameLauncher
             Application.Exit();
         }
 
-        private async void PlayDX11_Click(object sender, EventArgs e)
+        private async void PlayDX12_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"SpeedGame.exe", "-dx11");
+            MessageBox.Show("Project Speed 2 is not performance friendly when using DirectX12! It is recommended to play the game using the default DirectX11 renderer!");
+            await Task.Run(() =>
+            System.Diagnostics.Process.Start(@"SpeedGame.exe", "-dx12"));
             await Task.Run(() =>
             Application.Exit());
         }

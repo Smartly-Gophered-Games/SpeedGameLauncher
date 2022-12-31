@@ -1,6 +1,5 @@
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Release\SpeedGameLauncher.exe.config
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Release\SpeedGameLauncher.exe
-D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Release\SpeedGameLauncher.pdb
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.csproj.AssemblyReference.cache
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.csproj.SuggestedBindingRedirects.cache
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.Launcher.resources
@@ -8,4 +7,4 @@ D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedG
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.csproj.GenerateResource.cache
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.csproj.CoreCompileInputs.cache
 D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.exe
-D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\obj\Release\SpeedGameLauncher.pdb
+D:\Visual Studio\Projects\SpeedGameLauncher\SpeedGameLauncher\bin\Release\SpeedGameLauncher.xml
